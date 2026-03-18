@@ -1,0 +1,8 @@
+# Ignore EVERYTHING
+*
+
+# Allow README
+!README.md
+
+# Allow .gitignore itself
+!.gitignore
