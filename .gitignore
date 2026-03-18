@@ -1,8 +1,18 @@
-# Ignore EVERYTHING
-*
+# Maven target folder
+target/
 
-# Allow README
-!README.md
+# VS Code settings
+.vscode/
 
-# Allow .gitignore itself
-!.gitignore
+# Java
+*.class
+*.jar
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
